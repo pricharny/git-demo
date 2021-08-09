@@ -2,8 +2,8 @@
 
 This is the firsto.file in this rep.
 
-## Ipsum Below
+## Website content
 
-Thi is ip sdumt atedatjklx and that is aldfkaljf akjsdlkfjlakjsdf
+Here are the files in the website.
 
-Thi is ip sdumt atedatjklx and that is aldfkaljf akjsdlkfjlakjsdf
+1. index.html
